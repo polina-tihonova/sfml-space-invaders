@@ -1,0 +1,12 @@
+# ninja log v5
+4	364	6960771829403370	build.ninja	df85128e4cd8e252
+5	942	6960770768649430	CMakeFiles/SpaceInvaders.dir/main.cpp.obj	31d8ab49c43ba5b2
+943	2057	6960770779737896	SpaceInvaders.exe	a53626db61dab66
+1	803	6960771959965046	CMakeFiles/SpaceInvaders.dir/src/main.cpp.obj	247ea960de54260
+807	1904	6960771970894573	SpaceInvaders.exe	ee09152329e90c69
+4	1183	6960773286276420	CMakeFiles/SpaceInvaders.dir/src/main.cpp.obj	247ea960de54260
+1183	2289	6960773297286858	SpaceInvaders.exe	ee09152329e90c69
+6	1190	6960773423773874	CMakeFiles/SpaceInvaders.dir/src/main.cpp.obj	247ea960de54260
+1190	2257	6960773434351266	SpaceInvaders.exe	ee09152329e90c69
+4	1698	6960773638068230	CMakeFiles/SpaceInvaders.dir/src/main.cpp.obj	247ea960de54260
+1698	2925	6960773650412667	SpaceInvaders.exe	ee09152329e90c69
